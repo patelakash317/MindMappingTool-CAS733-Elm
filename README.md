@@ -37,9 +37,9 @@ McMaster University
      - Draw a line - to connect between ideas
      - **_You have to activate the Line drawing by clicking on this button_**
      - Once you activate it, you can:
-     - Draw a line, Select existing line, Update the line points and Delete the selected line using keyboard Delete key
-     - **_Note: Keyboard Delete key will only be used to delete the selected line and not anything else_**
-     - If not required, you should to deactivate the line drawing to prevent from line drawing to not required areas.
+        - Draw a line, Select existing line, Update the line points and Delete the selected line using keyboard Delete key
+        - **_Note: Keyboard Delete key will only be used to delete the selected line and not anything else_**
+        - If not required, you should to deactivate the line drawing to prevent from line drawing to not required areas.
 
 **Future work**:
   - Add Voice action to add new idea
