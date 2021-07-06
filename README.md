@@ -42,8 +42,8 @@ McMaster University
         - If not required, you should to deactivate the line drawing to prevent from line drawing to not required areas.
 
 **Future work**:
-  - Add Voice action to add new idea
-  - Possibly as a follow up, functionality to delete using voice action will also be implemented.
+  - Add Voice action to add new idea using Webduplex.js
+  - Possibly as a follow up, functionality to delete using voice action will also be implemented using Webduplex.js.
 
 An example from a live user:
 
