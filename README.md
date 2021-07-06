@@ -12,11 +12,13 @@ McMaster University
 
 > MacOutreach.rocks
 
-**When to use**
+**Mind Map**:-
+
+**When to use Mind Map**
 
 Mind maps are used to generate, visualize, organize, and classify information; they also serve as a study aid for making decisions, note-taking, writing, generating ideas, and organizing information. Thus this method is useful after you have collected a large quantity of data, and need some way to visualize it or connect seemingly unrelated concepts. Their usage ranges from personal and family to educational and business, often spurring collaboration. In addition to these direct uses, the data from mind maps can enhance expert search systems, search engines and search and tag query recommenders.
 
-**Benefits**
+**Benefits of Mind Map**
    - Visualizes and organizes your thoughts.
    - Promotes creativity.
    - Linking ideas together generates more ideas.
@@ -25,11 +27,11 @@ Mind maps are used to generate, visualize, organize, and classify information; t
    - Easy to add ideas later.
    - Adaptable to different uses.
    
-**Limitations/Risks**
+**Limitations/Risks of Mind Map**
    - May be difficult for others to interpret.
    - If understanding of subject isn’t clear from the beginning, you may have to take normal notes at first, then convert it to a mind map.
    
-**Skills that help:**
+**Skills that help using Mind Map:**
    - Abstract thinking
    - Collaborative mentality
    - Creativity
@@ -38,7 +40,9 @@ Mind maps are used to generate, visualize, organize, and classify information; t
    - Identifying patterns
 
 
-**What you can do?**
+**About MindMappingTool**:-
+
+**What you can do using this tool?**
 
 1. Add a new idea
 2. Edit the selected idea
