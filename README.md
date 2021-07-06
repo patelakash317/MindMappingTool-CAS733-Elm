@@ -20,7 +20,7 @@ McMaster University
 4. Select sepecific idea
 5. Move the selected idea
 6. Edit color of a idea
-7. Set default color of every new idea
+7. Set default color of every new idea (Default: Blue)
 
 **Quick access buttons**:
 
