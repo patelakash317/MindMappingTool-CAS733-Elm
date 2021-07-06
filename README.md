@@ -12,7 +12,7 @@ McMaster University
 
 > MacOutreach.rocks
 
-**What you can do?**:
+**What you can do?**
 
 1. Add a new idea
 2. Edit the selected idea
