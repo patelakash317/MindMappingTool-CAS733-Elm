@@ -46,6 +46,7 @@ McMaster University
   - Make single setting area for lines and idea box
      - Change shape of idea
      - Change line color
+     - Move - existing color change and text update option under this global section
   - Add object/image
   - Kid friendly - Add new idea 
   - Possibly as a follow up, functionality to delete using voice action will also be implemented using Webduplex.js.
