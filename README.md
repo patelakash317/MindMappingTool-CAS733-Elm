@@ -44,6 +44,11 @@ McMaster University
 - Add Voice action to add new idea
 - Possibly as a follow up, functionality to delete will also be implemented.
 
+An example from a live user:
+
+![image](https://user-images.githubusercontent.com/4964092/124537746-7cbf6000-dde8-11eb-90b1-9ab4839a20e0.png)
+
+
 Let me know your idea, thoughts, issues or requirement in the comment section.
 
 Thank you.
