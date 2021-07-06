@@ -51,5 +51,6 @@ An example from a live user:
 
 
 Let me know your idea, thoughts, issues or requirement in the comment section.
+Write your issues, comment, suggesion here: https://github.com/patelakash317/MindMappingTool-CAS733-Elm/issues
 
 Thank you.
