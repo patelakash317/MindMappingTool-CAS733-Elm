@@ -43,7 +43,7 @@ McMaster University
 
 **Future work**:
   - Add Voice action to add new idea
-  - Possibly as a follow up, functionality to delete will also be implemented.
+  - Possibly as a follow up, functionality to delete using voice action will also be implemented.
 
 An example from a live user:
 
