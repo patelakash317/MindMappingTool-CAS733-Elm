@@ -17,9 +17,10 @@ McMaster University
 1. Add a new idea
 2. Edit the selected idea
 3. Remove specific idea
-4. Move the idea position
-5. Edit color of a Idea
-6. Set default color of every new idea
+4. Select sepecific idea
+5. Move the selected idea
+6. Edit color of a idea
+7. Set default color of every new idea
 
 **Quick access buttons**:
 
