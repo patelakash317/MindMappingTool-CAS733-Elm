@@ -44,8 +44,8 @@ McMaster University
 **Future work**:
   - Add Voice action to add new idea using Webduplex.js
   - Make single setting area for lines and idea box
-  - Change shape of idea
-  - Change line color
+     - Change shape of idea
+     - Change line color
   - Add object/image
   - Kid friendly - Add new idea 
   - Possibly as a follow up, functionality to delete using voice action will also be implemented using Webduplex.js.
