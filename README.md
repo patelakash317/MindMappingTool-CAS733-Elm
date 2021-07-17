@@ -78,7 +78,7 @@ Mind maps are used to generate, visualize, organize, and classify information; t
      - Change line color
      - Move - existing color change and text update option under this global section
   - Add object/image
-  - Kid friendly - Add new idea 
+  - Kids friendly - Add new idea 
   - Possibly as a follow up, functionality to delete using voice action will also be implemented using Webduplex.js.
 
 An example from a live user:
